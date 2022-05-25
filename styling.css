@@ -1,0 +1,36 @@
+.main_div{
+    background-image: url("assets/images/express way.jpeg");
+}
+.first_div{
+    background-image: url("");
+}
+.text_jumboone{
+
+    align-items: center;
+    justify-content:center ;
+}
+.login_button{
+    color: white;
+    background-color: #0c5460;
+}
+.form_div{
+    background-image: url("workshop/99_Miscellaneous/Refactoring/images/asterisk.png");
+}
+.inner_div{
+    margin-left: 30%;
+margin-bottom: 30vh}
+.btn_first{ background-color:#8a8f63}
+.outer_div{
+    background-image: url("assets/images/bridge3.jpg");
+    background-size: 100%;
+}
+.intro_div{
+}
+.conso_div{
+    background-image: url("assets/images/bridge1.jpg");
+    height: 50vh; background-size: 100%;
+}
+.text_first{color: #0f0acb}
+.jumbo_bg{
+    background-color: #d39e00;
+}
